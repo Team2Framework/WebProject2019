@@ -6,7 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Aetna" />
+        <module name="CapitalOne" />
         <module name="Generic" />
+        <module name="Lululemon" />
+        <module name="NYTimes" />
+        <module name="TravelersInsurance" />
       </profile>
     </annotationProcessing>
   </component>
