@@ -11,10 +11,11 @@
     <modules>
         <module>Generic</module>
         <module>Aetna</module>
-        <module>CapitalOne</module>
+
         <module>TravelersInsurance</module>
         <module>Lululemon</module>
         <module>NYTimes</module>
+        <module>NewTour.Demoaut</module>
     </modules>
 
     <dependencyManagement>
