@@ -10,6 +10,7 @@
         <module name="CapitalOne" />
         <module name="Generic" />
         <module name="Lululemon" />
+        <module name="NewTour.Demoaut" />
         <module name="NYTimes" />
         <module name="TravelersInsurance" />
       </profile>
